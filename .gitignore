@@ -1,0 +1,6 @@
+other/
+csv/
+.vscode/
+__pycache__/
+versions.json
+*.tiny
